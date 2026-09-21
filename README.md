@@ -1,7 +1,9 @@
 # Obesity Transition Analysis
 
 Author: Kaia Waxenberg, MSc 
+
 Contact: K.S.Waxenberg@sms.ed.ac.uk
+
 Affiliation: University of Edinbrugh
 
 ## Purpose and Important Information
